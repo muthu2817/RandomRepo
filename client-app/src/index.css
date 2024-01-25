@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&family=Roboto+Mono:wght@200;400&family=Rye&display=swap');
+body{
+  font-family: 'Roboto Mono';
+  background:#D2E3C8;
+}

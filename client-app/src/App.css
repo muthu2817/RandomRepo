@@ -1,0 +1,19 @@
+.Container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+  
+}
+
+#container-gradient{
+  /* global 92%+ browsers support */
+  background: radial-gradient(circle at 85% 77%, rgba(225, 240, 218, 1) 0%, rgba(153, 188, 133, 1) 100%);
+}
+#container-gradient{
+  margin-bottom: 10px;
+}
+
+#formBG{
+  background: radial-gradient(circle at 85% 77%, rgba(225, 240, 218, 1) 0%, rgba(153, 188, 133, 1) 100%);
+}
